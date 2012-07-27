@@ -28,7 +28,7 @@ document.querySelector('form').onsubmit = formUploader.submit
 (example taken from [callbackhell.com](http://callbackhell.com/))
 
 * naming your anonymous functions
-* seperating the functions into
+* get rid of nesting
 * spliting into separete files using CommonJS with [browserify](https://github.com/substack/node-browserify#readme)
 * minify with [uglify-js](https://github.com/mishoo/UglifyJS/)
 * using the 'scripts' section in package.json
